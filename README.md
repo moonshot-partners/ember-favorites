@@ -12,7 +12,7 @@
 ## Forms and validations
 
 - [ember-changeset](https://github.com/poteto/ember-changeset) - It represents a set of valid changes to be applied onto any Object.
-- [ember-changeset-validations](https://github.com/poteto/ember-changeset-validations/) - ember-changeset-validations is a companion validation library to ember-changeset.
+- [ember-changeset-validations](https://github.com/poteto/ember-changeset-validations/) - Is a companion validation library to ember-changeset.
 - [ember-power-select](https://ember-power-select.com/) - Powerful and customizable select component for ember
 
 ## Localization
@@ -22,7 +22,7 @@
 
 ## Template helpers
 
-- [ember-wormhole](https://github.com/yapplabs/ember-wormhole) — a component that allows for rendering a block to a DOM element somewhere else on the page.
+- [ember-wormhole](https://github.com/yapplabs/ember-wormhole) — A component that allows for rendering a block to a DOM element somewhere else on the page.
 - [ember-cli-string-helpers](https://github.com/romulomachado/ember-cli-string-helpers) - String helpers for Ember templates.
 - [ember-compsable-helpers](https://github.com/DockYard/ember-composable-helpers) - Composable helpers for Ember that enables more declarative templating.
 - [ember-truth-helpers](https://github.com/jmurphyau/ember-truth-helpers) - HTMLBars template helpers for additional truth logic in if and unless statements.
@@ -36,7 +36,7 @@
 
 ## Utils
 
-- [ember-concurrency](http://ember-concurrency.com/) - is an Ember Addon that makes it easy to write concise, robust, and beautiful asynchronous code.
+- [ember-concurrency](http://ember-concurrency.com/) - Is an Ember Addon that makes it easy to write concise, robust, and beautiful asynchronous code.
 
 ## UI Components
 
