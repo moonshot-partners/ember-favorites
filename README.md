@@ -16,8 +16,8 @@
 
 ## Localization
 
-- [ember-intl](https://github.com/ember-intl/ember-intl) - Is an internationalization addon that unlocks translating simple to complex messages using built-in pluralization rules, number and datetime formatting, with support for over 150 languages
-- [ember-intl-analyzer](https://github.com/simplabs/ember-intl-analyzer) - Find unused translations in your Ember.js projects
+- [ember-intl](https://github.com/ember-intl/ember-intl) - Is an internationalization addon that unlocks translating simple to complex messages using built-in pluralization rules, number and datetime formatting, with support for over 150 languages.
+- [ember-intl-analyzer](https://github.com/simplabs/ember-intl-analyzer) - Find unused translations in your Ember.js projects.
 
 ## Template helpers
 
