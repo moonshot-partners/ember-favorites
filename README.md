@@ -13,6 +13,7 @@
 
 - [ember-changeset](https://github.com/poteto/ember-changeset) - It represents a set of valid changes to be applied onto any Object.
 - [ember-changeset-validations](https://github.com/poteto/ember-changeset-validations/) - ember-changeset-validations is a companion validation library to ember-changeset.
+- [ember-power-select](https://ember-power-select.com/) - Powerful and customizable select component for ember
 
 ## Localization
 
@@ -36,3 +37,7 @@
 ## Utils
 
 - [ember-concurrency](http://ember-concurrency.com/) - is an Ember Addon that makes it easy to write concise, robust, and beautiful asynchronous code.
+
+## UI Components
+
+- [ember-cli-flash](https://github.com/poteto/ember-cli-flash) - Adds a flash message service and component to your app.
